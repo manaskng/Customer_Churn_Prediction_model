@@ -1,6 +1,4 @@
-# Customer_Churn_Prediction_model
-
-#  Customer Churn Prediction using Deep Learning
+<img width="479" height="1403" alt="model_architecture" src="https://github.com/user-attachments/assets/fb976cab-1ac1-4b57-9164-830636a11661" />#  Customer Churn Prediction using Deep Learning
 
 An end-to-end deep learning project predicting bank customer churn using Artificial Neural Networks (ANN) with TensorFlow and Keras.
 
@@ -11,10 +9,26 @@ Built a 3-layer neural network to predict which customers are likely to leave th
 ## 🎯 Key Achievements
 
 -  **Accuracy**: 86.2%
+  <img width="2792" height="2373" alt="confusion_matrix" src="https://github.com/user-attachments/assets/211a660b-8ba4-42c9-a88c-c7fd3147791c" />
+  <img width="2970" height="2373" alt="precision_recall_curve" src="https://github.com/user-attachments/assets/af35c1c0-e7e6-43b5-88d4-d8d479292def" />
+
 - **AUC-ROC Score**: 0.87
+  <img width="2970" height="2373" alt="roc_curve" src="https://github.com/user-attachments/assets/db4059e5-0805-4cad-acad-44ed78d1a413" />
+
 -  **Model Architecture**: 3-layer ANN (64→32→16 neurons)
+  <img width="479" height="1403" alt="model_architecture" src="https://github.com/user-attachments/assets/9173a3b7-2dc4-439b-bded-b98b38b7e2da" />
+
 -  **Total Parameters**: 3,777
+-  <img width="3562" height="2364" alt="feature_importance" src="https://github.com/user-attachments/assets/f4ea9af8-c277-479a-a579-eb39331c60ae" />
+
 -  **Business Impact**: Identified top 5 churn predictors
+
+
+## Results 
+<img width="2792" height="2373" alt="confusion_matrix" src="https://github.com/user-attachments/assets/d5787fea-b18f-4ed5-b74b-fc5d954f5e1e" />
+<img width="4761" height="1764" alt="activation_comparison" src="https://github.com/user-attachments/assets/2fdf2848-7ba1-49e4-a27a-497b385ddcc3" />
+<img width="4764" height="3564" alt="training_history" src="https://github.com/user-attachments/assets/fdf85d43-27db-429b-b5fb-0e6bfb61e16f" />
+<img width="4764" height="1764" alt="threshold_optimization" src="https://github.com/user-attachments/assets/a04720e0-2597-4de9-9d45-412692093d11" />
 
 ##  Technologies Used
 
