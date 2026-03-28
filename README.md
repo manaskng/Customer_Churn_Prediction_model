@@ -237,8 +237,8 @@ This model enables banks to:
 
 
 
-** Contact
- **Manas Raj**
+
+ **Made by Manas Raj**
 
 
 ⭐ Star this repository if you find it useful!
