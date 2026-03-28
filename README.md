@@ -5,8 +5,6 @@ An end-to-end deep learning project predicting bank customer churn using Artific
 ##  Project Overview
 
 Built a 3-layer neural network architecture to predict which customers are likely to leave the bank, achieving **86%+ accuracy** on 10,000 customer records.
-<img width="400" height="1000" alt="model_architecture" src="https://github.com/user-attachments/assets/700d9715-098a-4bb4-890e-192badc49187" />
-
 
 ## 🎯 Key Achievements
 
@@ -100,6 +98,8 @@ This model enables banks to:
 | **ROI on Retention Spending** | **3,900%** |
 
 ---
+## Model Architecture:
+<img width="479" height="1403" alt="model_architecture" src="https://github.com/user-attachments/assets/490649dc-6ac3-4031-abf2-6443e516473e" />
 
 ## 📁 Dataset Information
 
@@ -234,9 +234,11 @@ This model enables banks to:
    - Cost-benefit analysis
    - Strategic recommendations
 
----
+
+
+
 ** Contact
-Manas Raj**
+ **Manas Raj**
 
 
 ⭐ Star this repository if you find it useful!
