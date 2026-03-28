@@ -1,4 +1,4 @@
-<img width="479" height="1403" alt="model_architecture" src="https://github.com/user-attachments/assets/fb976cab-1ac1-4b57-9164-830636a11661" />#  Customer Churn Prediction using Deep Learning
+#  Customer Churn Prediction using Deep Learning
 
 An end-to-end deep learning project predicting bank customer churn using Artificial Neural Networks (ANN) with TensorFlow and Keras.
 
